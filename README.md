@@ -1,2 +1,11 @@
-# portafolio-FrontEnd
-mi primer repositorio
+# portafolio-FrontEnd  :tiger:
+
+## mi primer repositorio
+
+### U: untracked
+
+### D: deleted
+
+### M: modified 
+
+### A: added
